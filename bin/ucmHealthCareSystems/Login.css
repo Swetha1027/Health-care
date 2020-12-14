@@ -1,0 +1,32 @@
+.root {
+
+
+
+-fx-background-image: url("home.jpg");
+-fx-background-size: 900 506;
+-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+.context-menu {
+  -fx-background-color: #d8bfd8;
+  -fx-text-fill: white;
+  -fx-padding: 0;
+}
+
+.context-menu:hover {
+  -fx-background-color: #d8bfd8;
+  -fx-text-fill: white;
+}
+.scene {
+-fx-background-image: url("C:\Users\santo\eclipse-workspace\HotelReservation\images\singleroom.jpg");
+-fx-background-size: 900 506;
+-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+
+
+}
+.button {
+    -fx-background-color: lightblue;
+}

@@ -1,0 +1,40 @@
+.root {
+
+
+
+-fx-background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm85-tong-08_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e9751deb30bb1843d95a3fcb0d9ff116");
+-fx-background-size: 900 506;
+-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+.context-menu {
+  -fx-background-color: #d8bfd8;
+  -fx-text-fill: white;
+  -fx-padding: 0;
+}
+
+.context-menu:hover {
+  -fx-background-color: #d8bfd8;
+  -fx-text-fill: white;
+}
+.scene {
+-fx-background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm85-tong-08_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e9751deb30bb1843d95a3fcb0d9ff116");
+-fx-background-size: 900 506;
+-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+
+
+}
+.button {
+    -fx-background-color: lightblue;
+}
+.label{
+
+-fx-font-size:17;
+-fx-font-style: bold;
+-fx-font-weight: bold;
+
+
+}
